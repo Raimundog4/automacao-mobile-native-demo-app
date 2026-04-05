@@ -1,4 +1,5 @@
 const allure = require('allure-commandline');
+//
 
 exports.config = {
     runner: 'local',
